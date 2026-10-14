@@ -1,7 +1,3 @@
-final_project/
-├── EmotionDetection/
-│   ├── __init__.py
-│   └── emotion_detection.py
-├── server.py
-├── test_emotion_detection.py
-└── README.md
+# Emotion Detection AI Application
+
+A Web-based AI application built with Python, Flask, and the IBM Watson NLP Emotion Detection service.
